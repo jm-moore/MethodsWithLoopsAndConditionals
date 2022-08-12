@@ -1,7 +1,7 @@
 ﻿using MethodsWithLoopsAndConditionals;
 using System;
 
-
+//Uncomment the method you would like to use:
 
 //This method will print all numbers 1000 through -1000 to the console.
 //Methods.PrintNum();
